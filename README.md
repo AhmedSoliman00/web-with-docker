@@ -1,6 +1,6 @@
 
 
-```
+
 # How to Run API
 
 To run the API, follow these steps:
